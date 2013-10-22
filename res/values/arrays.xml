@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="listview_items">
+        <item>Settings</item>
+        <item>About</item>
+        <item>Help</item>
+        <item>Exit</item>
+    </string-array>
+
+</resources>
